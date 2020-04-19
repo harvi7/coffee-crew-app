@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "356791257270",
+    "firebase_url": "https://harvi-brew-crew.firebaseio.com",
+    "project_id": "harvi-brew-crew",
+    "storage_bucket": "harvi-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356791257270:android:c0ffc9bca1327867767e17",
+        "android_client_info": {
+          "package_name": "com.harvi.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356791257270-jngdcp0k3l2l14f53923gea319b5hjog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY-gTnixwQmxho99WbodGK5y3Mev_3R4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356791257270-jngdcp0k3l2l14f53923gea319b5hjog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
